@@ -1,6 +1,6 @@
 # 🧠 SQL Projects Repository
 
-A collection of personal projects built using SQL.  
+A collection of  projects built using SQL.  
 Each project explores different use cases, workflows, and data challenges — all powered by structured queries.
 
 ## 🎯 Purpose
